@@ -21,10 +21,6 @@ public class SystemConfig {
     public static final String UserName = "root";
     public static final String PassWord = "123123123";
 
-    // public static final int MySqlPort = 8080;
-    // public static final String UserName = "pay";
-    // public static final String PassWord = "MiraCle";
-
     public static final String Database = "";
     public static final int IdleCheckInterval=5000;
     public static final int BackendConnectRetryTimes=3;
